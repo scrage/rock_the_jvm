@@ -6,3 +6,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 1. Values, Variables, Types
 2. Expressions
 3. Functions
+4. Recursion, Tail-recursion
