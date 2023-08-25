@@ -7,3 +7,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 2. Expressions
 3. Functions
 4. Recursion, Tail-recursion
+5. Misc: Call-by-Value vs Call-by-Name, Default and Named Arguments, String Operations
