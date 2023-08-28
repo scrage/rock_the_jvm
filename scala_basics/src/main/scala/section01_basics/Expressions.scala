@@ -1,3 +1,5 @@
+package section01_basics
+
 object Expressions extends App {
 
   val x = 1 + 2 // EXPRESSION

@@ -8,3 +8,6 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 3. Functions
 4. Recursion, Tail-recursion
 5. Misc: Call-by-Value vs Call-by-Name, Default and Named Arguments, String Operations
+
+# Section 2: Object-Oriented Programming in Scala
+1. OO Basics

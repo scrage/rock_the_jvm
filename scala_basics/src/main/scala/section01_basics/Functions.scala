@@ -1,3 +1,5 @@
+package section01_basics
+
 object Functions extends App {
 
   def aFunction(a: String, b: Int): String =

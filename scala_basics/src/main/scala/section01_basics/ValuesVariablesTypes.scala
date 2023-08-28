@@ -1,3 +1,5 @@
+package section01_basics
+
 object ValuesVariablesTypes extends App {
 
   val x: Int = 42

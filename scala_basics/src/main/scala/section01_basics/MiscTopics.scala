@@ -1,3 +1,5 @@
+package section01_basics
+
 object MiscTopics extends App {
 
   // === CALL-BY-NAME VS CALL-BY-VALUE ===
