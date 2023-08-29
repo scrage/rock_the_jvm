@@ -11,3 +11,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 
 # Section 2: Object-Oriented Programming in Scala
 1. OO Basics
+2. Method Notations (Syntactic Sugar)
