@@ -26,8 +26,8 @@ object ScalaObjects extends App {
   val john = Person
   println(mary == john) // true - the same singleton objects
 
-  val bob = new Person
-  val alice = new Person
+  val bob = new Person("Bob")
+  val alice = new Person("Alice")
   println(bob == alice) // false - different instances
 
   val bobbie = Person.apply(alice, bob)
