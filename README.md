@@ -14,3 +14,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 2. Method Notations (Syntactic Sugar)
 3. Scala Objects
 4. Inheritance, Traits
+5. Abstract Classes, Traits
