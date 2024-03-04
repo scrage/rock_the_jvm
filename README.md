@@ -17,3 +17,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 5. Abstract Classes, Traits
 6. Generics, Invariance, Covariance and Contravariance
 7. Case Classes
+8. Exceptions
