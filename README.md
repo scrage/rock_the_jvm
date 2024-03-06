@@ -22,3 +22,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 ## Section 3: Functional Programming in Scala
 1. Functions in Scala 101
 2. Anonymous Functions
+3. Higher-Order Functions, Curries
