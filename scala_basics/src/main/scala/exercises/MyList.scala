@@ -173,4 +173,10 @@ object ListTest extends App {
   println(listOfIntegers.fold(0)(_ + _))
   // prints: 6
 
+  // for-comprehensions also work on the custom list class
+  for {
+    n <- listOfIntegers
+    string <- listOfStrings
+  } yield n + "-" + string
+
 }

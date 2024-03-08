@@ -23,3 +23,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 1. Functions in Scala 101
 2. Anonymous Functions
 3. Higher-Order Functions, Curries
+4. Map, FlatMap, Filter, the notion of the possible absence of value
