@@ -1,5 +1,5 @@
 # rock_the_jvm
-Notes on a udemy course about Scala:
+Reference notes on a udemy course on Scala:
 https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 
 ## Section 1: The Absolute Scala Basics
@@ -25,3 +25,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 3. Higher-Order Functions, Curries
 4. Map, FlatMap, Filter, the notion of the possible absence of value
 5. Sequences (Seq, Range, List, Array, Vetor)
+6. Tuples, Maps
