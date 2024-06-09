@@ -26,3 +26,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 4. Map, FlatMap, Filter, the notion of the possible absence of value
 5. Sequences (Seq, Range, List, Array, Vetor)
 6. Tuples, Maps
+7. Options
