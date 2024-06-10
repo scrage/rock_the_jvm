@@ -27,3 +27,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 5. Sequences (Seq, Range, List, Array, Vetor)
 6. Tuples, Maps
 7. Options
+8. Handling Failures
