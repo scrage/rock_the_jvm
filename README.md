@@ -28,3 +28,6 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 6. Tuples, Maps
 7. Options
 8. Handling Failures
+
+## Section 4: Pattern Matching
+1. Pattern Matching
