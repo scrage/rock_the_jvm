@@ -31,3 +31,4 @@ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
 
 ## Section 4: Pattern Matching
 1. Pattern Matching
+2. All The Patterns
